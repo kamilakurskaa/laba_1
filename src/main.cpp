@@ -1,6 +1,7 @@
 #include <iostream>
 #include "utils.hpp"
 
+
 int main() {
 	int a, b;
 	std::cout << "Write 1st number: ";

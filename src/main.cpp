@@ -10,5 +10,5 @@ int main() {
 	std::cin >> b;
 	std::cout << "The result of addition: " << add(a, b) << std::endl;
 	std::cout << "The result of subtraction: " << subtract(a, b) << std::endl;
-	std::cout << "The result of multiplication : " << multiply(a, b) << std::endl;
+	std::cout << "The result of multiplication: " << multiply(a, b) << std::endl;
 }
